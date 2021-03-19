@@ -86,9 +86,9 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
-    devel_branch: dashing-devel
+    devel_branch: ros2
     last_version: 1.0.0
-    name: upstream
+    name: rqt_common_plugins
     patches: null
     release_inc: '3'
     release_repo_url: null
