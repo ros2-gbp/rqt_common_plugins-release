@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
   <name>rqt_common_plugins</name>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
   <description>
     rqt_common_plugins metapackage provides ROS backend graphical tools suite that can be used on/off of robot runtime.<br />
     <br />
@@ -16,7 +16,7 @@
     </ul>
    <br />
   </description>
-  <maintainer email="ablasdel@gmail.com">Aaron Blasdel</maintainer>
+  <maintainer email="ivanpauno@ekumenlabs.com">Ivan Paunovic</maintainer>
 
   <license>BSD</license>
 
@@ -36,11 +36,8 @@
   <exec_depend>rqt_bag</exec_depend>
   <exec_depend>rqt_bag_plugins</exec_depend>
   <exec_depend>rqt_console</exec_depend>
-  <!-- <exec_depend>rqt_dep</exec_depend> -->
   <exec_depend>rqt_graph</exec_depend>
   <exec_depend>rqt_image_view</exec_depend>
-  <!-- <exec_depend>rqt_launch</exec_depend> -->
-  <!-- <exec_depend>rqt_logger_level</exec_depend> -->
   <exec_depend>rqt_msg</exec_depend>
   <exec_depend>rqt_plot</exec_depend>
   <exec_depend>rqt_publisher</exec_depend>
@@ -50,9 +47,7 @@
   <exec_depend>rqt_service_caller</exec_depend>
   <exec_depend>rqt_shell</exec_depend>
   <exec_depend>rqt_srv</exec_depend>
-  <exec_depend>rqt_top</exec_depend>
   <exec_depend>rqt_topic</exec_depend>
-  <!-- <exec_depend>rqt_web</exec_depend> -->
 
   <export>
     <build_type>ament_cmake</build_type>
