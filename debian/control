@@ -1,0 +1,13 @@
+Source: ros-humble-rqt-common-plugins
+Section: misc
+Priority: optional
+Maintainer: Ivan Paunovic <ivanpauno@ekumenlabs.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: http://ros.org/wiki/rqt_common_plugins
+Standards-Version: 3.9.2
+
+Package: ros-humble-rqt-common-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-rqt-action, ros-humble-rqt-bag, ros-humble-rqt-bag-plugins, ros-humble-rqt-console, ros-humble-rqt-graph, ros-humble-rqt-image-view, ros-humble-rqt-msg, ros-humble-rqt-plot, ros-humble-rqt-publisher, ros-humble-rqt-py-common, ros-humble-rqt-py-console, ros-humble-rqt-reconfigure, ros-humble-rqt-service-caller, ros-humble-rqt-shell, ros-humble-rqt-srv, ros-humble-rqt-topic, ros-humble-ros-workspace
+Description: rqt_common_plugins metapackage provides ROS backend graphical tools suite that can be used on/off of robot runtime.
+ To run any rqt plugins, just type in a single command &quot;rqt&quot;, then select any plugins you want from the GUI that launches afterwards. rqt consists of three following metapackages: rqt - core modules of rqt (ROS GUI) framework. rqt plugin developers barely needs to pay attention to this metapackage. rqt_common_plugins (you're here!) rqt_robot_plugins - rqt plugins that are particularly used with robots during their runtime.
