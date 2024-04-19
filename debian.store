@@ -1,1 +1,1 @@
-{"base": "bd1a121", "parent": "debian/rolling/rqt_common_plugins", "previous": "d860dab", "trim": "", "trimbase": ""}
+{"base": "9ce45f9", "parent": "debian/jazzy/rqt_common_plugins", "previous": "bd2714a", "trim": "", "trimbase": ""}
