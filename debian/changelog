@@ -1,0 +1,233 @@
+ros-kilted-rqt-common-plugins (1.2.0-4noble) noble; urgency=high
+
+  * Remove unreleased plugins from rqt_common_plugins. (#465 <https://github.com/ros-visualization/rqt_common_plugins/issues/465>)
+  * Update maintainers (#464 <https://github.com/ros-visualization/rqt_common_plugins/issues/464>)
+  * Contributors: Chris Lalancette, Ivan Santiago Paunovic
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 11 May 2022 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (1.1.0-4noble) noble; urgency=high
+
+  * Add ``rqt_bag`` to the ``rqt_common_plugins`` metapackage (#463 <https://github.com/ros-visualization/rqt_common_plugins/issues/463>)
+  * Contributors: Michael Jeronimo
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Thu, 18 Mar 2021 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (1.0.0-4noble) noble; urgency=high
+
+  * ROS 2 port, commenting out unavailable plugins (#457 <https://github.com/ros-visualization/rqt_common_plugins/issues/457>)
+  * convert to package format 2 (#455 <https://github.com/ros-visualization/rqt_common_plugins/issues/455>)
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 02 Dec 2019 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.8-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Fri, 28 Apr 2017 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.7-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Thu, 02 Mar 2017 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.6-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 27 Feb 2017 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.5-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Fri, 03 Feb 2017 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.4-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 24 Jan 2017 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.3-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 02 Nov 2016 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.2-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 19 Sep 2016 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.1-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 16 May 2016 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.4.0-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 27 Apr 2016 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.13-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 08 Mar 2016 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.12-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Fri, 24 Jul 2015 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.11-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Thu, 30 Apr 2015 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.10-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 01 Oct 2014 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.9-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 18 Aug 2014 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.8-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 15 Jul 2014 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.7-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Fri, 11 Jul 2014 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.6-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 02 Jun 2014 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.5-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 07 May 2014 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.4-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 28 Jan 2014 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.3-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 08 Jan 2014 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.2-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 14 Oct 2013 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.1-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 09 Oct 2013 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.3.0-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Wed, 28 Aug 2013 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.17-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Thu, 04 Jul 2013 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.16-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 09 Apr 2013 18:33:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.15-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 09 Apr 2013 05:02:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.14-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Thu, 14 Mar 2013 05:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.13-4noble) noble; urgency=high
+
+  * New pkgs added (rqt_action, rqt_launch)
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 12 Mar 2013 03:14:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.12-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 11 Mar 2013 18:56:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.11-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Fri, 08 Mar 2013 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.10-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Tue, 22 Jan 2013 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.9-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Thu, 17 Jan 2013 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.8-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Fri, 11 Jan 2013 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.7-4noble) noble; urgency=high
+
+
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Mon, 24 Dec 2012 06:00:00 -0000
+
+ros-kilted-rqt-common-plugins (0.2.6-4noble) noble; urgency=high
+
+  * first release of this package into groovy
+
+ -- Ivan Paunovic <ivanpauno@ekumenlabs.com>  Sun, 23 Dec 2012 06:00:00 -0000
+
+
