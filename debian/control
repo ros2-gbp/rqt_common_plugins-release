@@ -1,0 +1,13 @@
+Source: ros-lyrical-rqt-common-plugins
+Section: misc
+Priority: optional
+Maintainer: Ivan Paunovic <ivanpauno@ekumenlabs.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ros-workspace
+Homepage: http://ros.org/wiki/rqt_common_plugins
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rqt-common-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-rqt-action, ros-lyrical-rqt-bag, ros-lyrical-rqt-bag-plugins, ros-lyrical-rqt-console, ros-lyrical-rqt-graph, ros-lyrical-rqt-image-view, ros-lyrical-rqt-msg, ros-lyrical-rqt-plot, ros-lyrical-rqt-publisher, ros-lyrical-rqt-py-common, ros-lyrical-rqt-py-console, ros-lyrical-rqt-reconfigure, ros-lyrical-rqt-service-caller, ros-lyrical-rqt-shell, ros-lyrical-rqt-srv, ros-lyrical-rqt-topic, ros-lyrical-ros-workspace
+Description: rqt_common_plugins metapackage provides ROS backend graphical tools suite that can be used on/off of robot runtime.
+ To run any rqt plugins, just type in a single command "rqt", then select any plugins you want from the GUI that launches afterwards. rqt consists of three following metapackages: rqt - core modules of rqt (ROS GUI) framework. rqt plugin developers barely needs to pay attention to this metapackage. rqt_common_plugins (you're here!) rqt_robot_plugins - rqt plugins that are particularly used with robots during their runtime.
